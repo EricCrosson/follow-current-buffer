@@ -33,7 +33,7 @@
 ;;; Code:
 
 ;;;###autoload
-(defun follow-this-buffer ()
+(defun follow-current-buffer ()
   "Enable `follow-mode' in the current buffer and open as many
 80-char vertical window-splits as possible."
   (interactive)
