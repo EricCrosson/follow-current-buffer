@@ -1,4 +1,4 @@
-# follow-current-buffer [![Build Status](https://travis-ci.org/EricCrosson/follow-current-buffer.svg?branch=master)](https://travis-ci.org/EricCrosson/follow-current-buffer)
+# follow-current-buffer [![Build Status](https://travis-ci.org/EricCrosson/follow-current-buffer.svg?branch=master)](https://travis-ci.org/EricCrosson/follow-current-buffer) [![Version](https://img.shields.io/github/tag/EricCrosson/follow-current-buffer.svg)](https://github.com/EricCrosson/follow-current-buffer/releases)
 
 > Enable `follow-mode` in the current buffer and open as many 80-char
 > vertical window-splits as possible
@@ -23,6 +23,10 @@ Or manually, after downloading into your `load-path`
 ``` {.sourceCode .lisp}
 (require 'follow-current-buffer)
 ```
+
+## Example
+
+![Example](https://raw.githubusercontent.com/EricCrosson/follow-current-buffer-demo/master/img/demo.gif)
 
 ## License
 
